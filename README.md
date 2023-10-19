@@ -2,7 +2,7 @@ Logitech G29 in CARLA
 ======
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)![example](https://img.shields.io/badge/Python-API-red.svg)![example](https://img.shields.io/badge/Ubuntu-18.04-yellow.svg)![example](https://img.shields.io/badge/Logitech-G29-yellow.svg)
-
+![example](https://img.shields.io/badge/CARLA-0.9.10-yellow.svg)
  
 ## The overview of Human expert collects the datasets via the Logitech G29 steering wheel
 ![images](G29.png)
