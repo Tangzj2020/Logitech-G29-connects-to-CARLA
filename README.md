@@ -7,7 +7,7 @@ Logitech G29 in CARLA
 ![images](G29.png)
 
 ## 1.Install CARLA
-* Based on Ubuntu 16.04 or 18.04
+* Based on Ubuntu 18.04
 * Download  [CARLA_0.9.10](https://github.com/carla-simulator/carla/releases)
 
     `$ export PYTHONPATH=$PYTHONPATH:$YourFolder$/CARLA_0.9.10/PythonAPI/carla/dist/carla-0.9.10-py3.7-linux-x86_64.egg`
