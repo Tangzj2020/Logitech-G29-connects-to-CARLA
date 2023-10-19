@@ -20,7 +20,9 @@ Logitech G29 in CARLA
 
 ## 2.Usage
 * Enter the CARLA root folder and launch the CARLA server by:
-
+  
+    `$ cd ~/YourFolder/CARLA_0.9.10`
+  
     `$ ./CarlaUE4.sh -opengl -carla-port=2000`
 ## 3.Install jstest-gtk
 
