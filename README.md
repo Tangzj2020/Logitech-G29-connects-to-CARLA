@@ -3,7 +3,7 @@ Logitech G29 in CARLA
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-
+![images](G29.png)
 
 ## 1.Install CARLA
 * Based on Ubuntu 16.04 or 18.04
