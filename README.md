@@ -13,9 +13,8 @@ Logitech G29 in CARLA
 
     `$ export PYTHONPATH=$PYTHONPATH:$YourFolder$/CARLA_0.9.10/PythonAPI/carla/dist/carla-0.9.10-py3.7-linux-x86_64.egg`
     
-    `$ cd ~/YourFolder/CARLA_0.9.10/PythonAPI/examples $`
-    
-    `Add manual_control_steeringwheel_G29.py to $/YourFolder/CARLA-0.9.10/PythonAPI/examples$`
+    `$ cd ~/YourFolder/CARLA_0.9.10/PythonAPI/examples $` and `Add manual_control_steeringwheel_G29.py`
+  
 * `$ pip install pygame==1.9.6 $`
 
 
