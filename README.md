@@ -52,6 +52,6 @@ Logitech G29 in CARLA
   
     `$ python manual_control_steeringwheel_carla.py`
   
-* A simple function can be checked in Collect_expert_data-via-G29.py
+* A simple function can be checked in `Collect_expert_data-via-G29.py`
 
 
