@@ -31,24 +31,27 @@ Logitech G29 in CARLA
 
 * To install jstest-gtk, use the following command:
 
-    `$ sudo apt-get update $`
+    `$ sudo apt-get update `
 
-    `$ sudo apt-get install jstest-gtk $`
+    `$ sudo apt-get install jstest-gtk `
 
-## 4.Add wheel_config.ini file to below path: 
 
-    `$ ~/YourFolder/CARLA_0.9.10/PythonAPI/examples `
-    
-* you also reset axes and buutions:
-  
-    `$ gedit wheel_config.int`
 
    
-## 5.Running PythonAPI via G29
-* Please check Collect_expert_data-via-G29.py
+## 4.Running PythonAPI via G29
+
+* Add wheel_config.ini file to below path: 
+
+    `$ cd ~/YourFolder/CARLA_0.9.10/PythonAPI/examples`
+    
+* you also reset axes and buttions:
+  
+    `$ gedit wheel_config.int`
   
 * Runing demo with follow command：
   
     `$ python manual_control_steeringwheel_carla.py`
+  
+* A simple function can be checked in Collect_expert_data-via-G29.py
 
 
