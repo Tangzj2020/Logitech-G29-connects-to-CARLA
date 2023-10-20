@@ -40,8 +40,9 @@ Logitech G29 in CARLA
 
       $ gedit wheel_config.int $
 
-      $ python manual_control_steeringwheel_carla.py $
+   
+## 5.Running PythonAPI via G29
+$ python manual_control_steeringwheel_carla.py $
 
-## 5.PythonAPI via G29
 * Please check `Collect_expert_data-via-G29.py`
 
