@@ -18,8 +18,8 @@ Logitech G29 in CARLA
     `$ pip install pygame==1.9.6 $`
 
 
-## 2.Usage
-* Enter the CARLA root folder and launch the CARLA server by:
+## 2.Launch the CARLA server
+* Enter the CARLA root folder:
   
     `$ cd ~/YourFolder/CARLA_0.9.10`
   
@@ -35,9 +35,12 @@ Logitech G29 in CARLA
 
     `$ sudo apt-get install jstest-gtk $`
 
-## 4.Build config file: wheel_config.ini
-    `$ cd ~/YourFolder/CARLA_0.9.10/PythonAPI/examples `
+## 4.Add wheel_config.ini file to below path: 
 
+    `$ ~/YourFolder/CARLA_0.9.10/PythonAPI/examples `
+    
+* you also reset axes and buutions:
+  
     `$ gedit wheel_config.int`
 
    
